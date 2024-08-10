@@ -6,7 +6,6 @@ A Gmail clone made with React and Tailwindcss.
 
 - [React](https://react.dev)
 - [TailwindCSS](https://tailwindcss.com)
-- [Vite](https://vitejs.dev)
 
 ## Getting Started
 
